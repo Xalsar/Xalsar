@@ -12,7 +12,7 @@
 
 - Problems aren't problematic; the unwillingness to acknowledge and tackle them is.
 - Don't make "better" the enemy of "good." ✅
-- We are surrounded by super talented people; sometimes, it's easy to overlook their potential.
+- We are surrounded by super talented people; but sometimes, it's easy to overlook their potential.
 
 ---
 
