@@ -1,4 +1,4 @@
-### **Xavier Carrera Gimbert - Senior Full Stack Web Developer & Team Lead**
+# **Xavier Carrera Gimbert - Senior Full Stack Web Developer & Team Lead** 👋
 
 - **Experience:** 10 years 🚀
 - **Current Stack:** React, Next.js, Tailwind CSS, TypeScript, Prisma, PostgreSQL. 💻
